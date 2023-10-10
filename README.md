@@ -6,5 +6,5 @@ the data set **palmerpenguins**, to verify if there exits a correlation between 
 ## Author
 **Julián David Candela**
 * [LinkedIn](https://sites.google.com/view/juliandavidcandela/about-me)
-* [Portfolio web](https://sites.google.com/view/juliandavidcandela/about-me)
+* [Portfolio web](https://sites.google.com/view/juliandavidcandela/what-i-do/portfolio)
   
